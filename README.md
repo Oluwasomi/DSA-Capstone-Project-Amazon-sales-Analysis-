@@ -51,6 +51,21 @@ Cleaned product names for readability in dashboard visuals.
 
 ### Exploratory Data Analysis
 
+1. Which category has the highest average discount?
+2. How many products are in each category?
+3. Which categories have the highest total reviews?
+4. Which products have the highest average ratings?
+5. What is the average actual vs discounted price by category?
+6. Which products have the highest review counts?
+7. How many products offer ≥50% discount?
+8. What’s the overall product rating distribution?
+9. What is the revenue potential by category?
+10. How are products distributed across price ranges?
+11. Does discount level correlate with product rating?
+12. How many products have fewer than 1,000 reviews?
+13. Which category contains the highest-discounted products?
+14. What are the top 5 products based on rating × review count?
+
 ### Analysis Insights
 
 1. Home Improvement has the highest average discount (58%), followed by Health & Personal Care and Computers & Accessories.
