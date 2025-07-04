@@ -8,7 +8,7 @@ This project involved exploring a dataset of 1,465 Amazon-listed products, clean
 ### Data Source
 The primary data source used here is the Amazon sales data for the purpose of this project Analysis.
 
-Tools and Techniques used
+### Tools and Techniques used
 
 1. Microsoft Excel[Download here](https://www.microsoft.com/en-us/microsoft-365/excel)
 - Data Cleaning
