@@ -64,6 +64,12 @@ Cleaned product names for readability in dashboard visuals.
 
 ### Data Analysis
 
+![image](https://github.com/user-attachments/assets/5b037e55-9faa-4ff0-9029-f27ed545fd44)
+![image](https://github.com/user-attachments/assets/9536654b-eba8-4a80-81d3-e5d2ddb7538d)
+![image](https://github.com/user-attachments/assets/8c57e062-0056-444e-baef-2f7d536ecbd0)
+![image](https://github.com/user-attachments/assets/acdd89ec-570d-4149-b6dd-2ba4dac65a4e)
+![image](https://github.com/user-attachments/assets/c8d321ed-1ad2-4277-9c0b-cbdaace3b096)
+
 ### Summary of key Findings
 
 -Product Count and Revenue
